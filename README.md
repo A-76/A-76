@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya Shankar</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sH-1IOL8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qky7jxrn69tqt1gaxbmm.gif" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 🔭 I’m currently working on **custom search engine**
 
