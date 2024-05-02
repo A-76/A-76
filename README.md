@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **custom search engine**
 
-- 🌱 I’m currently learning **spacy and NLP**
-
-- 👨‍💻 All of my projects are available at [https://abhattip.wixsite.com/adidsportfolio](https://abhattip.wixsite.com/adidsportfolio)
+- 🌱 I’m currently learning **RAG**
 
 - 📫 How to reach me **abhattip@uci.edu**
 
